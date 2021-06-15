@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tokenomist also on TikTok
-- 👀 I’m interested in kickstarting a token on the Stellar blockchain Latuya.org [means: yours in: spanish]
-- 🌱 I’m currently learning everything I have too many things on my plate, but I enjoy every second of it
-- 💞️ I’m looking to collaborate on blockchain development
+- 👀 I’m interested in kickstarting a token that is long overdue on the Stellar blockchain: www.elpeso.org -el reseto-
+- 🌱 I’m currently learning and taking on every challenge. I have too many things on my plate, but at least I enjoy every second of it.
+- 💞️ I’m looking to work with software engineers who settle for nothing less than exceptional. Must have a solid understanding of blockchain fundamentals.
 - 📫 How to reach me admin@2030s.com
 
 <!---
