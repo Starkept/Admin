@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Tokenomist also on TikTok
-- 👀 I’m interested in kickstarting a token that is long overdue on the Stellar blockchain: Qoracoin.com
-- 🌱 I’m currently learning and taking on every challenge. I have too many things on my plate, but at least I enjoy every second of it.
-- 💞️ I’m looking to work with software engineers who settle for nothing less than exceptional. Must have a solid understanding of blockchain fundamentals.
-- 📫 How to reach me the@realcalisto.com
+- 👋 Hi, I’m @Tokenomist
+- 👀 I’m interested in kickstarting a project that is long overdue 
+- 🌱 I spend all my time at the office working towards this cause. Its an amazing time in history to be alive.
+- 💞️ I have come a long way and there is still a ways to go. I am cherishing every moment now till I pass the point of no return.
 
 <!---
 Tokenomist/Tokenomist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
