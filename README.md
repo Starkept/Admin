@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tokenomist
-- 👀 I’m interested in kickstarting a project that is long overdue 
+- 👀 I am kickstarting a project that is long overdue.
 - 🌱 I spend all my time at the office working towards this cause. Its an amazing time in history to be alive.
 - 💞️ I have come a long way and there is still a ways to go. I am cherishing every moment now till I pass the point of no return.
 
